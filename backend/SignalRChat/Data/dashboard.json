@@ -1,0 +1,122 @@
+[
+  {
+    "i": "1",
+    "chartType": "RadialChart",
+    "name": "Temperature",
+    "dataType": "Celcius",
+    "x": 12,
+    "y": 5,
+    "w": 2,
+    "h": 2,
+    "palette": "palette5"
+  },
+  {
+    "i": "2",
+    "chartType": "RadialChart",
+    "name": "Battery",
+    "dataType": "Percent",
+    "x": 14,
+    "y": 5,
+    "w": 2,
+    "h": 2,
+    "palette": "palette7"
+  },
+  {
+    "i": "3",
+    "chartType": "RadialChart",
+    "name": "DISK Usage",
+    "dataType": "Percent",
+    "x": 14,
+    "y": 1,
+    "w": 2,
+    "h": 2,
+    "palette": "palette8"
+  },
+  {
+    "i": "4",
+    "chartType": "RadialChart",
+    "name": "RAM Usage",
+    "dataType": "Percent",
+    "x": 14,
+    "y": 3,
+    "w": 2,
+    "h": 2,
+    "palette": "palette3"
+  },
+  {
+    "i": "5",
+    "chartType": "TimeChart",
+    "name": "TIME",
+    "dataType": "Minute",
+    "x": 14,
+    "y": 0,
+    "w": 2,
+    "h": 1
+  },
+  {
+    "i": "6",
+    "chartType": "AreaChart",
+    "name": "CPU Usage",
+    "dataType": "Percent",
+    "x": 0,
+    "y": 0,
+    "w": 8,
+    "h": 3,
+    "palette": "palette2"
+  },
+  {
+    "i": "7",
+    "chartType": "AreaChart",
+    "name": "Memory",
+    "dataType": "Bytes",
+    "x": 8,
+    "y": 5,
+    "w": 4,
+    "h": 2,
+    "palette": "palette7"
+  },
+  {
+    "i": "8",
+    "chartType": "AreaChart",
+    "name": "CPU Frequency",
+    "dataType": "Mhz",
+    "x": 4,
+    "y": 3,
+    "w": 4,
+    "h": 2,
+    "palette": "palette8"
+  },
+  {
+    "i": "9",
+    "chartType": "RadarChart",
+    "name": "Cores",
+    "x": 8,
+    "y": 0,
+    "w": 6,
+    "h": 5,
+    "palette": "palette1",
+    "dataType": "Percent"
+  },
+  {
+    "i": "10",
+    "chartType": "LineChart",
+    "name": "RAM Usage",
+    "x": 0,
+    "y": 3,
+    "w": 4,
+    "h": 2,
+    "palette": "palette1",
+    "dataType": "Percent"
+  },
+  {
+    "i": "11",
+    "chartType": "AreaChart",
+    "name": "RAM Usage",
+    "x": 0,
+    "y": 5,
+    "w": 8,
+    "h": 2,
+    "palette": "palette1",
+    "dataType": "Percent"
+  }
+]
