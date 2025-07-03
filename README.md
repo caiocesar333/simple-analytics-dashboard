@@ -4,12 +4,6 @@ This project is a customizable dashboard built using ReactJS, React ApexCharts, 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74079494/234943973-4e0a2c74-69f9-4da5-83c0-2b8dce6de5e9.gif)
 
-
-## Team Members
-
-- [Berkay Yıldız](https://github.com/berykay)
-- [Yağmur Üstel](https://github.com/ymr22)
-
 ## Features
 
 - Drag and drop functionality to resize, move, remove, and add new charts according to your preference.
